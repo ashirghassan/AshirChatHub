@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921422305675",
+    "firebase_url": "https://ashirchathub-default-rtdb.firebaseio.com",
+    "project_id": "ashirchathub",
+    "storage_bucket": "ashirchathub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921422305675:android:4f316e115a6afa9815378e",
+        "android_client_info": {
+          "package_name": "com.example.ashirchathub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921422305675-2mriu0chqqllc8ueur67291qj35gnh11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCV1OEmMNUHG6HiNq0PXKfttkhnL_CX80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921422305675-2mriu0chqqllc8ueur67291qj35gnh11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
